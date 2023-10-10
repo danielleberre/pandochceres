@@ -209,12 +209,13 @@ $endif$
 $for(header-includes)$
 $header-includes$
 $endfor$
-\usepackage{xcolor}
+\usepackage[table]{xcolor}
 \usepackage{pgf}
 \usepackage{sectsty}\usepackage{sectsty}
 \usepackage{tcolorbox}
 \definecolor{hceresred}{HTML}{ED145B}
 \definecolor{hcerespurple}{HTML}{5C2D91}
+\definecolor{hceresgreen}{HTML}{76923C}
 \sectionfont{\color{hceresred}}
 \subsectionfont{\color{hcerespurple}}
 \subsubsectionfont{\color{hcerespurple}}
@@ -228,14 +229,14 @@ $endfor$
 \lhead{$myheader$}
 \chead{}
 \rhead{\pgfimage[width=1.5cm]{hceres}}
-\lfoot{Campagne d’évaluation  2018-2019 – Vague E		}
-\cfoot{\thepage}
-\rfoot{Département d’évaluation de la recherche}
+\lfoot{Campagne d’évaluation  2024-2025 – Vague E\hspace{1cm} Département d’évaluation de la recherche}
+\cfoot{}
+\rfoot{\thepage}
 \tcbsetforeverylayer{colframe=hceresred,colback=white,sharp corners,boxrule=1pt,boxsep=5mm}
 \pretitle{
 \vspace{-3cm}
 \begin{tabular}{lm{5cm}}
-\raisebox{-.5\height}{\pgfimage[width=5cm]{hceres}}&\large\bf\color{hceresred} Département d’évaluation de la recherche\\
+\raisebox{-.5\height}{\pgfimage[width=10cm]{hceres}}&\large\bf\color{hceresred} Département d’évaluation de la recherche\\
 \end{tabular}
 \par\begin{tcolorbox}[boxrule=2pt,boxsep=1cm]\centering\color{hcerespurple}\LARGE}
 \posttitle{\par\vskip 0.5em $myheader$\par\vskip 0.5em\end{tcolorbox}\par\vskip 0.5em}
@@ -247,7 +248,7 @@ $endfor$
 $if(noinstructions)$
 \newcommand{\instructions}[1]{}
 $else$
-\newcommand{\instructions}[1]{{\em \color{red}#1}}
+\newcommand{\instructions}[1]{{\em \color{hceresgreen}#1}}
 $endif$
 $if(title)$
 \title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
