@@ -74,7 +74,7 @@ Organisation de l’unité :
 
 Équipes, plateformes, services communs, etc :
 
-Effectif de l’unité et de ses éventuelles équipes au 31/12/2022 :
+Effectif de l’unité et de ses éventuelles équipes au 31/12/2023 :
 
 Thématiques scientifiques (par équipe le cas échéant) :
 
