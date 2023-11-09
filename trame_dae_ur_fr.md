@@ -19,6 +19,15 @@ Label et numéro :
 
 Domaine scientifique principal :
 
+<!--
+Choisir un élément :
+
+SHS : Sciences Humaines et Sociales
+ST : Sciences et Technologies
+SVE : Sciences de la vie de la santé et de l'environnement
+
+-->
+
 Panels scientifiques par ordre décroissant de pertinence :
 
 <!--
