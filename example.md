@@ -1,7 +1,7 @@
 ---
 title: Unité de recherche 
 date: Septembre 2023
-myheader: Document d’autoévaluation des unités de recherche
+myheader: Document d'autoévaluation des unités de recherche
 geometry: "top=1.25cm, bottom=0.8cm, left=2cm, right=2cm"
 numbersections: true
 ---
@@ -189,7 +189,7 @@ Dans l’éventualité où toutes les références devraient être abordées, on
 
 L’unité analyse les impacts scientifiques, économiques, culturels et sociétaux de la politique qu’elle conduit et elle décrit comment elle les prend en considération.}
 
-#### Référence 2. L’unité dispose de ressources adaptées à son profil d’activités et à son environnement de recherche et les mobilise. {-}
+#### Référence 2. L’unité dispose de ressources adaptées à son profil d’activités et à son environnement de recherche et les mobilise. {-}
 
 \instructions{L’unité présente les ressources financières dont elle dispose de façon récurrente et celles qu’elle est capable de mobiliser, au-delà de la dotation allouée par ses tutelles. Elle décrit sa politique de mutualisation d’une partie de ses ressources pour favoriser l’émergence de thématiques novatrices et pour soutenir des activités collectives de recherche.\\
 
@@ -211,7 +211,7 @@ L’unité décrit son plan de continuité d'activité et comment elle anticipe 
 
 ### Domaine 2. Attractivité {-}
 
-\instructions{Ce domaine se décline en quatre références qui portent respectivement sur le rayonnement scientifique des membres de l’unité, sur la qualité de sa politique d’encadrement et d’accueil en lien avec les écoles doctorales, sur sa capacité à obtenir des financements (appels à projets compétitifs), et sur la qualité de ses équipements et de leur gestion.}
+\instructions{Ce domaine se décline en quatre références qui portent respectivement sur le rayonnement scientifique des membres de l’unité, sur la qualité de sa politique d’encadrement et d’accueil en lien avec les écoles doctorales, sur sa capacité à obtenir des financements (appels à projets compétitifs), et sur la qualité de ses équipements et de leur gestion.}
 
 #### Référence 1. L’unité est attractive par son rayonnement scientifique et s’insère dans l’espace européen de la recherche. {-}
 
@@ -225,7 +225,7 @@ L’unité souligne sa capacité à accueillir des chercheurs invités.\\
 
 L’unité décrit la mise en œuvre de la stratégie de ses tutelles en matière d’intégrité scientifique et de science ouverte.}
 
-#### Référence 3. L’unité est attractive par la reconnaissance de ses succès à des appels à projets compétitifs. {-}
+#### Référence 3. L’unité est attractive par la reconnaissance de ses succès à des appels à projets compétitifs. {-}
 
 \instructions{L’unité décrit sa politique en matière de réponse à des appels à projets aussi bien internationaux que nationaux et locaux. Elle en présente les résultats.
 Elle mentionne comment elle finance sur ses ressources propres des contrats doctoraux et post-doctoraux, des contrats d’ingénieur et de technicien, des chaires, des équipements.\\
@@ -246,7 +246,7 @@ Elle décrit et analyse la constitution de l’équipe technique et administrati
 
 \instructions{Ce domaine se décline en trois références qui portent respectivement sur les aspects qualitatifs, quantitatifs et éthiques de la production scientifique, et des résultats des recherches.}
 
-#### Référence 1. La production scientifique de l’unité satisfait à des critères de qualité. {-}
+#### Référence 1. La production scientifique de l’unité satisfait à des critères de qualité. {-}
 
 \instructions{L’unité analyse sa production scientifique. Elle s’appuie en particulier sur le portfolio et sur la liste de sa production pour montrer en quoi celle-ci repose sur des fondements théoriques et méthodologiques solides, qu’elle est originale, qu’elle présente un apport à la connaissance et qu’elle traduit un positionnement national et international des recherches menées par l’unité. 
 
@@ -269,7 +269,7 @@ L’unité définit sa politique en matière de science ouverte.}
 
 ### Domaine 4. Inscription des activités de recherche dans la société {-}
 
-\instructions{Dans ce domaine, le mot « société » est entendu au sens large. L'inscription de l’activité de l’unité de recherche dans la société peut concerner l’économie, la santé, la culture, l’environnement, etc. Le domaine se décline en trois références, qui portent respectivement sur les interactions de l’unité avec les acteurs du monde non-académique, les produits de sa recherche à destination des acteurs socio-économiques et culturels et ses interventions dans la sphère publique.}
+\instructions{Dans ce domaine, le mot « société » est entendu au sens large. L'inscription de l’activité de l’unité de recherche dans la société peut concerner l’économie, la santé, la culture, l’environnement, etc. Le domaine se décline en trois références, qui portent respectivement sur les interactions de l’unité avec les acteurs du monde non-académique, les produits de sa recherche à destination des acteurs socio-économiques et culturels et ses interventions dans la sphère publique.}
 
 
 #### Référence 1. L’unité se distingue par la qualité et la quantité de ses interactions avec le monde non-académique. {-}
@@ -279,7 +279,7 @@ L’unité définit sa politique en matière de science ouverte.}
 L’unité indique comment elle se saisit de sujets à valeur scientifique, technologique, sociale et culturelle, en cohérence avec sa politique de recherche. Elle souligne comment ses partenariats permettent de relever des défis environnementaux, sociétaux ou technologiques.
 }
 
-#### Référence 2. L’unité développe des produits à destination du monde culturel, économique et social. {-}
+#### Référence 2. L’unité développe des produits à destination du monde culturel, économique et social. {-}
 
 \instructions{L’unité présente sa politique de valorisation et les résultats obtenus en matière de développement de produits à destination du monde économique (brevets, licences, accompagnement de création d’entreprises, expertises, participation à la rédaction de normes, etc.).\\
 

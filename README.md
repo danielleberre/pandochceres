@@ -10,7 +10,7 @@ et en utilisant [pandoc](http://pandoc.org) pour obtenir un pdf.
 
 ## Comment l'utiliser
 
-`pandoc --pdf-engine=xelatex --template hceres.latex.format example.md -o example.pdf`
+`pandoc --template hceres.latex.format example.md -o example.pdf`
 
 ## Contributions bienvenues
 
