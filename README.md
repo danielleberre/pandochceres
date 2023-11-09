@@ -8,7 +8,7 @@ et en utilisant [pandoc](http://pandoc.org) pour obtenir un pdf.
 
 ## Comment l'utiliser
 
-`pandoc --template hceres.latex.format example.md -o example.pdf`
+`pandoc --template hceres.latex.format trame_dae_ur_fr.md -o trame_dae_ur_fr.pdf`
 
 ## Contributions bienvenues
 
