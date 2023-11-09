@@ -8,7 +8,13 @@ et en utilisant [pandoc](http://pandoc.org) pour obtenir un pdf.
 
 ## Comment l'utiliser
 
+Pour générer le document en conservant les instructions, utiliser la commande suivante :
+
 `pandoc --template hceres.latex.format trame_dae_ur_fr.md -o trame_dae_ur_fr.pdf`
+
+Pour enlever les instructions, utiliser la commande suivante :
+
+`pandoc -V noinstructions --template hceres.latex.format trame_dae_ur_fr.md -o trame_dae_ur_fr.pdf`
 
 ## Pour les utilisateurs de latex
 
