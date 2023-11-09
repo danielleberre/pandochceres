@@ -211,6 +211,7 @@ $header-includes$
 $endfor$
 \usepackage[table]{xcolor}
 \usepackage{pgf}
+\usepackage{tikz}
 \usepackage{sectsty}\usepackage{sectsty}
 \usepackage{tcolorbox}
 \definecolor{hceresred}{HTML}{ED145B}
@@ -233,18 +234,6 @@ $endfor$
 \cfoot{}
 \rfoot{\thepage}
 \tcbsetforeverylayer{colframe=hceresred,colback=white,sharp corners,boxrule=1pt,boxsep=5mm}
-\pretitle{
-\vspace{-3cm}
-\begin{tabular}{lm{5cm}}
-\raisebox{-.5\height}{\pgfimage[width=10cm]{hceres}}&\large\bf\color{hceresred} Département d’évaluation de la recherche\\
-\end{tabular}
-\par\begin{tcolorbox}[boxrule=2pt,boxsep=1cm]\centering\color{hcerespurple}\LARGE}
-\posttitle{\par\vskip 0.5em $myheader$\par\vskip 0.5em\end{tcolorbox}\par\vskip 0.5em}
-\preauthor{\raggedright\color{hceresred}\bf\large}
-\postauthor{\par\vskip 0.5em}
-\predate{\raggedright\color{hceresred}\large}
-\postdate{\par}
-\pagestyle{fancy}
 $if(noinstructions)$
 \newcommand{\instructions}[1]{}
 $else$
@@ -264,13 +253,34 @@ $if(institute)$
 \providecommand{\institute}[1]{}
 \institute{$for(institute)$$institute$$sep$ \and $endfor$}
 $endif$
-\date{$date$}
-
+\pagestyle{fancy}
 \begin{document}
-$if(title)$
-\maketitle
-\thispagestyle{plain}
-$endif$
+
+\begin{titlepage}
+\tikz[remember picture,overlay] \node[inner sep=0pt] at ([xshift=8.5cm,yshift=-3cm]current page.north west){\raisebox{-.5\height}{\includegraphics[width=4cm]{hceres}}  \Large\bf\color{hceresred} Département d’évaluation de la recherche};
+
+\tikz[remember picture,overlay] \node[inner sep=0pt] at ([xshift=-8.2cm,yshift=-3cm]current page.east){\includegraphics[width=16cm]{hceresfront}};
+
+\begin{tcolorbox}[boxsep=.7cm,left skip=4cm, right skip=-4cm, before skip=5cm, colback=white,colframe=white]
+{\color{hcerespurple}\LARGE DOCUMENT\\
+D'AUTOÉVALUATION DES\\
+UNITÉS DE RECHERCHE}
+
+
+\vskip 2cm
+{\raggedright\color{hceresred}\bf\large CAMPAGNE D'EVALUATION 2024-2025
+}\\
+{\raggedright\color{hceresred}\large Vague E
+}
+\par\vskip 2cm
+{\raggedright\color{hcerespurple}\large $date$}
+
+\par
+\end{tcolorbox}
+
+\date{$date$}
+\end{titlepage}
+
 $if(abstract)$
 \begin{abstract}
 $abstract$

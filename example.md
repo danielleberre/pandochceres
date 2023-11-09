@@ -1,7 +1,6 @@
 ---
 title: Unité de recherche 
-author: CAMPAGNE D'EVALUATION 2024-2025 
-date: Vague E
+date: Septembre 2023
 myheader: Document d’autoévaluation des unités de recherche
 geometry: "top=1.25cm, bottom=0.8cm, left=2cm, right=2cm"
 numbersections: true
