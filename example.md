@@ -21,6 +21,31 @@ Domaine scientifique principal :
 
 Panels scientifiques par ordre décroissant de pertinence :
 
+<!--
+Les éléments sont à choisir dans la liste suivante :
+
+SHS1 : Marchés et organisations
+SHS2 : Institutions, gouvernance et systèmes juridiques
+SHS3 : Le Monde social et sa diversité
+SHS4 : L’esprit humain et sa complexité
+SHS5 : Cultures et productions culturelles 
+SHS6 : Histoire générale du passé et des savoirs
+SHS7 : Espace et relations hommes/milieux
+ST1 : Mathématiques
+ST2 : Physique
+ST3 : Sciences de la terre et de l'univers
+ST4 : Chimie
+ST5 : Sciences pour l'ingénieur
+ST6 : Sciences et technologies de l'information et de la communication - STIC
+SVE1 : Biologie environnementale fondamentale et appliquée, écologie, évolution
+SVE2 : Productions végétales et animales (agronomie), biologie végétale et animale, biotechnologie et ingénierie des biosystèmes
+SVE3 : Molécules du vivant, biologie intégrative (des gènes et génomes aux systèmes), biologie cellulaire et du développement pour la science animale 
+SVE4 : Immunité, infection et immunothérapie
+SVE5 : Neurosciences et troubles du système nerveux
+SVE6 : Physiologie et physiopathologie humaine, vieillissement
+SVE7 : Prévention, diagnostic et traitement des maladies humaines (médecine préventive et pronostique, santé publique et épidémiologie, santé environnementale, médecine du travail, soins de santé, y compris soins pour la population vieillissante, technologies et outils médicaux pour la prévention, imagerie, diagnostic et traitement des maladies humaines, approches et interventions thérapeutiques, pharmacologie, conception de médicaments)
+-->
+
 - Panel 1  
 Choisissez un élément.
 - Panel 2  
@@ -29,6 +54,7 @@ Choisissez un élément.
 Choisissez un élément.
 - Panel 4  
 Choisissez un élément.
+
 
 Équipe de direction :
 
