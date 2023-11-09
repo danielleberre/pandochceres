@@ -213,12 +213,12 @@ $endfor$
 \usepackage[table]{xcolor}
 \usepackage{pgf}
 \usepackage{tikz}
-\usepackage{sectsty}\usepackage{sectsty}
+\usepackage{sectsty}
 \usepackage{tcolorbox}
 \definecolor{hceresred}{HTML}{ED145B}
 \definecolor{hcerespurple}{HTML}{5C2D91}
 \definecolor{hceresgreen}{HTML}{76923C}
-\sectionfont{\color{hceresred}}
+\sectionfont{\color{hceresred}\MakeUppercase} 
 \subsectionfont{\color{hcerespurple}}
 \subsubsectionfont{\color{hcerespurple}}
 \usepackage{fancyhdr}
